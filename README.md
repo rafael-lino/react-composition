@@ -1,30 +1,29 @@
-# React + TypeScript + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## ==MORE QUESTIONS THAN SOLUTIONS!
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The main idea is to amplify our options to build components, know when, where and how to use it.
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- ### **WHY?**
 
-- Configure the top-level `parserOptions` property like this:
+- ### Recognize
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+- ### Take care of over-engineering
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+
+
+# LINKS
+
+Repository <br/>
+https://github.com/rafael-lino/react-composition
+
+React Design Patterns: Compound Component Pattern <br/>
+https://medium.com/@vitorbritto/react-design-patterns-compound-component-pattern-ec247f491294
+
+Mastering Composition Patterns in React and TypeScript! Practical Techniques to Improve Reusability and Readability <br/>
+https://medium.com/@master_43681/mastering-composition-patterns-in-react-and-typescript-3b503645ab6e
+
+Rocketseat - Composition Pattern <br/>
+https://www.youtube.com/watch?v=oPOKpSFqy-I
