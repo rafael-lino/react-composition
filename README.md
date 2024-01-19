@@ -7,7 +7,7 @@ The main idea is to amplify our options to build components, know when, where an
 
 - ### **WHY?**
 
-- ### Recognize
+- ### Recognizing
 
 - ### Take care of over-engineering
 
